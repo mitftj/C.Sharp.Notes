@@ -1,0 +1,7 @@
+C:\Users\黎镜\source\repos\天一\33类的抽象\bin\Debug\33类的抽象.exe.config
+C:\Users\黎镜\source\repos\天一\33类的抽象\bin\Debug\33类的抽象.exe
+C:\Users\黎镜\source\repos\天一\33类的抽象\bin\Debug\33类的抽象.pdb
+C:\Users\黎镜\source\repos\天一\33类的抽象\obj\Debug\33类的抽象.csproj.AssemblyReference.cache
+C:\Users\黎镜\source\repos\天一\33类的抽象\obj\Debug\33类的抽象.csproj.CoreCompileInputs.cache
+C:\Users\黎镜\source\repos\天一\33类的抽象\obj\Debug\33类的抽象.exe
+C:\Users\黎镜\source\repos\天一\33类的抽象\obj\Debug\33类的抽象.pdb
